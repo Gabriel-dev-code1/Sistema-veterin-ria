@@ -1,4 +1,4 @@
-# Sistema-veterin-ria
+# Sistema-veterinaria
 <h1 align text="center">Sistema desktop para clínica veterinária com windows forms</h1>
 
 Funcionalidades presentes neste projeto:
